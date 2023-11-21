@@ -9,9 +9,10 @@
 
 - 💬 Ask me about **EEE**
 
-- 📫 How to reach me **sujeewabandara390@gmail.com**
-
-- ⚡ Fun fact **Call me as sj**
+- 📫 How to reach me **www.linkedin.com/in/sujeewa-bandara-**
+- Email : **sujeewabandara390@gmail.com**
+  
+                 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
