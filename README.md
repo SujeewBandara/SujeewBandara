@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sujeewa</h1>
-<h3 align="center">Final Year Electrical & Electronic Engineering Undergraduate | Freelancer | An entrepreneur</h3>
+<h3 align="center"> Electrical & Electronic Engineer | Highspeed PCB Designer | Freelancer | An entrepreneur</h3>
 
 ---
 
-- 🌱 I’m currently learning **Electrical & Electronic Engineering**
+- 🌱 I’m BSc(Hons) **Electrical & Electronic Engineer** and Advaced PCB Designer with more than 2 years of experience in ALtium Design.
 
-- 🤝 I’m Undergraduate at **UOJ**
+- 🤝 I’m graduated from **UOJ**
 
 - 💬 Ask me about **EEE**
 
