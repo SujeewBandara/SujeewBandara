@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/sujeewa-bandara-**
 - Email : **sujeewabandara390@gmail.com**
-- FaceBook page : **https://web.facebook.com/sjElectronicDesign/**
+- FaceBook page : **https://web.facebook.com/TronicLabsEng/**
   
                  
 
